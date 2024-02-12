@@ -1,6 +1,4 @@
-**Unit-Converter** 
-
-Created as a Solo Project to practice my JS, HTML and CSS skills learnt during the Scrimba Javascript course.
+# cocae46b1a1107088ade66550
 
 Quick start:
 
